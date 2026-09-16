@@ -1,0 +1,18 @@
+{
+  "short_name": "Hello",
+  "name": "PWA Hello World",
+  "description": "Hello :3",
+  "icons": [{
+    "src": "Haiset.png",
+    "type": "image/png",
+    "sizes": "168x168"
+  },
+  {
+    "src": "HaisetHigh.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }],
+  "start_url": "index.html",
+  "display": "standalone"
+
+}
