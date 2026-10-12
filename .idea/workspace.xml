@@ -2,30 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99a85d14-3757-4fde-bc0d-90e6df4ebbb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Helloworld/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Helloworld/sw.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsonSchemas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/.idea/jsonSchemas.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Haiset.png" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/Haiset.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HaisetHigh.png" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/HaisetHigh.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MOA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/MOA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/img/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/js/vendor/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/webpack.common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/webpack.config.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/Helloworld/webpack.config.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/Haiset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/HaisetHigh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/js/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/js/vendor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/Haiset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/HaisetHigh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/js/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,23 +65,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/L20240049/IdeaProjects/MOA/Template",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\L20240049\IdeaProjects\MOA\Template" />
+      <recent name="C:\Users\L20240049\IdeaProjects\MOA\Counter" />
+      <recent name="C:\Users\L20240049\IdeaProjects\MOA" />
+      <recent name="C:\Users\L20240049\IdeaProjects\MOA\Template\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\L20240049\IdeaProjects\MOA\Counter\js" />
       <recent name="C:\Users\L20240049\Desktop\Project\MOA\MOA\Helloworld" />
     </key>
   </component>
