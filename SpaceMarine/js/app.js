@@ -10,3 +10,15 @@ if("serviceWorker" in navigator) {
   });
 }
 
+const prepinac = document.getElementById("marineSwitch");
+const obrazek = document.getElementById("marineImg");
+
+prepinac.addEventListener("change", prepniObrazek);
+
+function prepniObrazek(event) {
+  if(prepinac.checked){
+    obrazek.src = "img/kiss-hehe.gif"+"?a="+Math.random();
+  }else {
+    obrazek.src = "img/Kiss.png";
+  }
+}
