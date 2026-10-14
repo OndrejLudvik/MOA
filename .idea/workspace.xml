@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99a85d14-3757-4fde-bc0d-90e6df4ebbb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpaceMarine/img/Kiss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpaceMarine/img/kiss-hehe.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpaceMarine/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceMarine/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpaceMarine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceMarine/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpaceMarine/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceMarine/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/Haiset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/HaisetHigh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/js/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/js/vendor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ring/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,30 +57,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/L20240049/IdeaProjects/MOA/SpaceMarine/img&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/L20240049/Desktop/Project/MOA/MOA",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\L20240049\Desktop\Project\MOA\MOA" />
       <recent name="C:\Users\L20240049\IdeaProjects\MOA\SpaceMarine\img" />
       <recent name="C:\Users\L20240049\IdeaProjects\MOA" />
       <recent name="C:\Users\L20240049\IdeaProjects\MOA\Template" />
       <recent name="C:\Users\L20240049\IdeaProjects\MOA\Counter" />
-      <recent name="C:\Users\L20240049\IdeaProjects\MOA\Template\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\L20240049\Desktop\Project\MOA\MOA\SpaceMarine\img" />
