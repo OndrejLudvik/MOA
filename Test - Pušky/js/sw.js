@@ -8,7 +8,10 @@ const cacheAssets = [
   "/js/app.js",
   "/Haiset.png",
   "/HaisetHigh.png",
-  "/img/"
+  "/img/LongStrike.png",
+  "/img/LongStrikeWithBarrel.png",
+  "/img/LongStrikeWithScope.png",
+  "/img/LongStrikeWithScopeAndBarrel.png"
 
 ];
 
