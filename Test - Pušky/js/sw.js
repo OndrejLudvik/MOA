@@ -12,7 +12,6 @@ const cacheAssets = [
   "/img/LongStrikeWithBarrel.png",
   "/img/LongStrikeWithScope.png",
   "/img/LongStrikeWithScopeAndBarrel.png"
-
 ];
 
 self.addEventListener("install", e => {

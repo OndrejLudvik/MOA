@@ -9,6 +9,7 @@ if("serviceWorker" in navigator) {
       });
   });
 }
+
 const prepinacScope = document.getElementById("nerfSwitch");
 const prepinacBarrel = document.getElementById("nerfSwitch2");
 const obrazek = document.getElementById("nerfImg");
