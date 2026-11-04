@@ -9,6 +9,7 @@ if("serviceWorker" in navigator) {
       });
   });
 }
+//OBSANO Z GITHUBU NEJDE
 
 const prepinacScope = document.getElementById("nerfSwitch");
 const prepinacBarrel = document.getElementById("nerfSwitch2");

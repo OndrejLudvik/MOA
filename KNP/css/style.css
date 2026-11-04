@@ -1,0 +1,23 @@
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.divHlavni {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+.divVyber {
+  width: 100px;
+  float: left;
+}
+.btn {
+  height: 100px;
+  width: 100px;
+  float: right;
+}

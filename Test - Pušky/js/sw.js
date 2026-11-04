@@ -1,5 +1,5 @@
 //pro práci offline a ukládání do cache
-
+//OBSANO Z GITHUBU NEJDE
 const CACHE_NAME = "v1";
 const cacheAssets = [
   "/",
